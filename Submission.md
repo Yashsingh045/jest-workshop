@@ -47,7 +47,7 @@ This test throws an error for all other coupon values that are not "SAVE10" or "
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No) Yes
-- GitHub Actions Run URL: https://github.com/yashsingh045/jest-workshop/actions/runs/6525666566
+- GitHub Actions Run URL: https://github.com/Yashsingh045/jest-workshop/actions/runs/21826244203
 
 ---
 
